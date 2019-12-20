@@ -18,8 +18,8 @@ each time the program is run.
     -Click the "decrypt" button to decrypt the message
   
   
-- Instructions to run source code:
+- **Instructions to run source code**:
 
   -Run the file actual_system.py with decrypt.py, encrypt.py, primes.py and setup.py in same directory
   
-  -This will run the gui and use instructions above.
+  -This will run the gui and then you can use instructions above.
